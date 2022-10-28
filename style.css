@@ -1,0 +1,9 @@
+.animation {
+    transition: all 2s linear;
+  }
+  .first {
+    background-color: green;
+  }
+  .last {
+    background-color: red;
+  }
